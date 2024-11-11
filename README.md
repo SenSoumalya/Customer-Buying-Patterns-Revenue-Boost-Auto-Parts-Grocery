@@ -1,4 +1,5 @@
 # Customer Buying Patterns & Revenue Boost: Auto Parts & Grocery
+## Course: Marketing & Retail Analytics
 
 This project is divided into two parts:
 1. **Part A** - Auto Sales Analysis for an automobile parts manufacturing company.
